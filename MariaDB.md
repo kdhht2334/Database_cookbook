@@ -18,7 +18,7 @@
 
 ### 사용자 권한 할당
 
-  - GRANT ALL PRIVILEGES ON <database_name>.* TO '<user_id>'@'%';
+  - GRANT ALL PRIVILEGES ON <database_name>.* TO <user_id>@'%';
 
 ### 새로 고침
 
